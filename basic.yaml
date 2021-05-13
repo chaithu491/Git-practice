@@ -1,0 +1,6 @@
+---
+- hosts: all
+  tasks:
+  - name: This is a basic yaml testing file
+    ping:
+---    
