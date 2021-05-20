@@ -1,2 +1,3 @@
 Line of the line is added
 # Sting a king for the Palastina Wing
+Added fes steps to file.
