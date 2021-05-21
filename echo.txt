@@ -1,0 +1,8 @@
+Line of the line is added
+# Sting a king for the Palastina Wing
+Added fes steps to file.
+Added final line for testing
+<<<<<<< HEAD
+Removed commit form log
+=======
+>>>>>>> 69dd903bf51486318a45dbbbd477544f89b619a4
